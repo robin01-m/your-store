@@ -1,0 +1,29 @@
+.avatar {
+	width: 50px;
+	border-radius: 50%;
+}
+.table-wrapper{
+	height: 70vh;
+	 overflow-y: auto;
+}
+.name:hover{
+	background-color:cornflowerblue;
+	cursor: pointer;
+}
+.pagination-block {
+	display: flex;
+	justify-content: center;
+}
+.search-bar-wrapper {
+	width: 50%;
+	margin: auto;
+}
+.table-wrapper {
+	width: 95%;
+	margin: auto;
+	box-sizing: border-box;
+}
+.data{
+	font-size: 30px;
+	text-align: center;
+}
