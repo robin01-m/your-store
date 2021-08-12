@@ -83,8 +83,10 @@ function DashboardPanel() {
 		).then((result) => setWeeklyTransactions(result.data.data.transactions));
 	}, []);
 	console.log(weeklyTransactions);
+
 	return (
 		<div className="home">
+			
 			<Container>
 				<Grid container className="space">
 					<Grid item lg={3} md={3} xs={12} >

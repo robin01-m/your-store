@@ -1,6 +1,6 @@
 import React from "react";
 import { Route, Switch } from "react-router-dom";
-import Header from "./Header";
+
 import Sidebar from "../Sidebar";
 import Users from "../Users";
 import "./dashboard.css";
@@ -16,9 +16,6 @@ import CategoriesForm from "../CategoriesForm";
 function Dashboard(props) {
 	return (
 		<div class="m-dashboard">
-			<div className="d-top-nav">
-				<Header />
-			</div>
 			<div className="content-wrap">
 				<div className="d-sidebar">
 					<Sidebar />
