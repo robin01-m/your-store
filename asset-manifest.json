@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ShapeAI_Bootcamp_BWD/static/css/main.98ff6ecf.chunk.css",
+    "main.js": "/ShapeAI_Bootcamp_BWD/static/js/main.c0c52e20.chunk.js",
+    "main.js.map": "/ShapeAI_Bootcamp_BWD/static/js/main.c0c52e20.chunk.js.map",
+    "runtime-main.js": "/ShapeAI_Bootcamp_BWD/static/js/runtime-main.0e398ea1.js",
+    "runtime-main.js.map": "/ShapeAI_Bootcamp_BWD/static/js/runtime-main.0e398ea1.js.map",
+    "static/css/2.7b1c032f.chunk.css": "/ShapeAI_Bootcamp_BWD/static/css/2.7b1c032f.chunk.css",
+    "static/js/2.4ab1ed71.chunk.js": "/ShapeAI_Bootcamp_BWD/static/js/2.4ab1ed71.chunk.js",
+    "static/js/2.4ab1ed71.chunk.js.map": "/ShapeAI_Bootcamp_BWD/static/js/2.4ab1ed71.chunk.js.map",
+    "static/js/3.af17b0cb.chunk.js": "/ShapeAI_Bootcamp_BWD/static/js/3.af17b0cb.chunk.js",
+    "static/js/3.af17b0cb.chunk.js.map": "/ShapeAI_Bootcamp_BWD/static/js/3.af17b0cb.chunk.js.map",
+    "index.html": "/ShapeAI_Bootcamp_BWD/index.html",
+    "static/css/2.7b1c032f.chunk.css.map": "/ShapeAI_Bootcamp_BWD/static/css/2.7b1c032f.chunk.css.map",
+    "static/css/main.98ff6ecf.chunk.css.map": "/ShapeAI_Bootcamp_BWD/static/css/main.98ff6ecf.chunk.css.map",
+    "static/js/2.4ab1ed71.chunk.js.LICENSE.txt": "/ShapeAI_Bootcamp_BWD/static/js/2.4ab1ed71.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0e398ea1.js",
+    "static/css/2.7b1c032f.chunk.css",
+    "static/js/2.4ab1ed71.chunk.js",
+    "static/css/main.98ff6ecf.chunk.css",
+    "static/js/main.c0c52e20.chunk.js"
+  ]
+}
